@@ -1,5 +1,5 @@
 gradio
-faiss-cpu
+faiss-cpu==1.7.3
 sentence-transformers
 scikit-learn
 pandas
