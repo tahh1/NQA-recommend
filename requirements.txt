@@ -1,7 +1,7 @@
 gradio
-faiss-cpu==1.7.3
+faiss-cpu==1.10.0
 sentence-transformers
 scikit-learn
 pandas
-numpy<2
+numpy>=2
 nltk
