@@ -1,0 +1,6 @@
+gradio
+faiss-cpu
+sentence-transformers
+scikit-learn
+pandas
+numpy
