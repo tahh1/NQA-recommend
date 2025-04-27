@@ -6,7 +6,7 @@ env/
 __pycache__/
 *.pyc
 
-# Ignore model and index files
-*.faiss
-*.pkl
-fine_tuned_sbert_model/
+# # Ignore model and index files
+# *.faiss
+# *.pkl
+# fine_tuned_sbert_model/
