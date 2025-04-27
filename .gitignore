@@ -1,4 +1,12 @@
+# Ignore virtual environments
 venv/
 env/
+
+# Ignore Python cache files
 __pycache__/
 *.pyc
+
+# Ignore model and index files
+*.faiss
+*.pkl
+fine_tuned_sbert_model/
